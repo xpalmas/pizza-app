@@ -1,3 +1,12 @@
+:root {
+
+  --primary-color: #BD7344;
+  --secondary-color: #A8293C;
+  --black-color: #582E44;
+  --lightGray-color: #8E7A3D;
+  --gray-color: #D7B957;
+}
+
 html,
 body {
   padding: 0;
